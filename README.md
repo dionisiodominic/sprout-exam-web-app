@@ -1,4 +1,13 @@
+
 # Sprout.Exam.WebApp - Dominic Dionisio
+
+**Sample Output:**
+
+![image](https://github.com/dionisiodominic/sprout-exam-web-app/assets/57953927/20f26b61-7430-4b43-a709-3e778b68ae38)
+![image](https://github.com/dionisiodominic/sprout-exam-web-app/assets/57953927/03ae51a8-227d-4b3d-8288-f0d2e8af26a4)
+![image](https://github.com/dionisiodominic/sprout-exam-web-app/assets/57953927/5c161a5c-4230-476b-be2f-e1937542a0d6)
+
+**Question:**
 
 **If we are going to deploy this on production, what do you think is the next improvement that you will prioritize next? This can be a feature, a tech debt, or an architectural design.**
 
